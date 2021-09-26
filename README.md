@@ -8,5 +8,8 @@ You can build yourself with `C:\Windows\Microsoft.NET\Framework64\v3.5\csc.exe -
 ## Usage  
 `.\SharpPN.exe -DLL C:\path\to\your\dll`  
 
+![Alt text](/images/SharpPN_Working.PNG)
+
+
 ### References  
 Caleb Stewart & John Hammond's PowerShell PoC: https://github.com/calebstewart/CVE-2021-1675
